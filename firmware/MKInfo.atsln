@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "MKInfo", "MKInfo\MKInfo.cproj", "{D812CF32-D62F-45C4-8D74-E8C18C96AC60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D812CF32-D62F-45C4-8D74-E8C18C96AC60}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D812CF32-D62F-45C4-8D74-E8C18C96AC60}.Debug|AVR.Build.0 = Debug|AVR
+		{D812CF32-D62F-45C4-8D74-E8C18C96AC60}.Release|AVR.ActiveCfg = Release|AVR
+		{D812CF32-D62F-45C4-8D74-E8C18C96AC60}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

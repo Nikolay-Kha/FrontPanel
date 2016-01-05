@@ -1,0 +1,11 @@
+firmware/*.atsuo
+firmware/Debug
+firmware/Release
+software/.vs
+software/Debug
+software/Release
+software/*.user
+software/*.filters
+software/*.sdf
+software/*.suo
+software/*.opendb
